@@ -41,7 +41,7 @@ tela de cardapio
 
 tela com informações do pedido
 
-6) Qual será o diferencial do sistema?
+6)Qual será o diferencial do sistema?
 
 ira facilitar o gerenciamento do restaurante em relação a pedidos dos clientes, tornando mais pratico e evitando erros humanos.
 
@@ -53,11 +53,11 @@ Java
 Lucidchart
 
 
-9)Como o sistema poderá evoluir no futuro? 
+8)Como o sistema poderá evoluir no futuro? 
 
 Ele pode permitir, que as pessoas façam pedidos para outros lugares, terá também função de perfil do cliente onde haveria uma funcionalidade de fidelidade. 
 
-10)Quais responsabilidades cada integrante do grupo terá? 
+9)Quais responsabilidades cada integrante do grupo terá? 
 
 O grupo é composto por 3 integrantes e cada um tem as seguintes funções: 
 
