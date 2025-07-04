@@ -66,3 +66,6 @@ Kaique: desenvolvimento
 Bruno: banco de dados e integraçao 
 
 Daniel: diagramaçao  
+
+
+Após a realização dessa atividade, no meu ponto de vista, e essencial o planejamento para realizar esse tipo de tarefa, pra nao ocorrer de chegar na programação e nao ser bem aquilo que eu estava pensando.
