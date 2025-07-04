@@ -9,7 +9,7 @@ Facilita todo atendimento do restaurante, pois tem um cardápio digital, histór
 
 O restaurante. 
 
-3) O que ele precisa fazer (principais funcionalidades)? 
+3)O que ele precisa fazer (principais funcionalidades)? 
 
 O sistema precisa ter 
 
