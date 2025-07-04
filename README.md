@@ -1,7 +1,7 @@
 # Gerenciamento-Restaurante
 Um sistema simples que visa agilizar o atendimento em restaurantes.
 
-1) Qual problema seu sistema resolve? 
+1)Qual problema seu sistema resolve? 
 
 Facilita todo atendimento do restaurante, pois tem um cardápio digital, histórico de pedidos e calcula o valor da conta automaticamente. 
 
